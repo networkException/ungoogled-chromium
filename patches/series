@@ -99,4 +99,5 @@ extra/ungoogled-chromium/add-flag-to-hide-extensions-menu.patch
 extra/ungoogled-chromium/add-flag-to-hide-fullscreen-exit-ui.patch
 extra/ungoogled-chromium/add-flag-for-incognito-themes.patch
 extra/ungoogled-chromium/add-flags-for-referrer-customization.patch
+extra/ungoogled-chromium/add-flags-for-existing-switches.patch
 extra/ungoogled-chromium/first-run-page.patch
